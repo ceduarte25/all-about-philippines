@@ -19,6 +19,6 @@
 
 ## License
 
-Licensed under the MIT License, Copyright © 2023-present [AAP TEAM](https://allaboutphilippines.info/team).
+Licensed under the GPL-3.0 license, Copyright © 2023-present [AAP TEAM](https://allaboutphilippines.info/team).
 
 See [LICENSE](./LICENSE) for more information.
